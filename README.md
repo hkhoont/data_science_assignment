@@ -21,5 +21,14 @@ Load data and analyze:
 3. Data preprocessing ipython notebook - Preprocessing till using Dask distributions [Jupyter Notebook](https://github.com/hkhoont/data_science_assignment/blob/master/data_preprocess.ipynb)
 4. Data Visulaization and modelling ipython notebook - Orignally done on Google Collab [Collab Link](https://colab.research.google.com/drive/1upuXc2VEjdnERvQFzWLb3gdQDc6NeOiM)
 
+## How to run the files and get the results ##
 
+1. First intall the following library in the Anaconda promp
+-geopy
+-wget
+-xgboost
+-geopandas
+2. After running the data preprocesing IPython Notebook - save the resultant DataFrame in the Google Drive
+3. Export sahrebale link of this CSV and update the '''link''' variable
+4. Data Visulaization and modelling ipython notebook - Orignally done on Google Collab [Collab Link](https://colab.research.google.com/drive/1upuXc2VEjdnERvQFzWLb3gdQDc6NeOiM)
 

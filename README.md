@@ -13,3 +13,10 @@ Load data and analyze:
 3) Find interesting trip statistics grouped by hour 
 4) The taxi drivers want to know what kind of trip yields better tips. Can you build a model for them and explain the model? 
 5) Pick one of the options below (Option 1) Find an anomaly in the data and explain your findings. (Option 2) Visualize the data to help understand trip patterns Please submit the result in the form of runnable notebooks or scripts. A link to GitHub or other code repository would be great. Please let us know if we need to do anything special to run your notebook (install packages, get extra data etc.)
+
+## Contents of the repo ##
+
+1. Readme File in .md format
+2. Data preprocessing ipython notebook - Preprocessing till using Dask distributions [Jupyter Notebook]()
+3. Data Visulaization and modelling ipython notebook - Orignally done on Google Collab [Collab Link](https://colab.research.google.com/drive/1upuXc2VEjdnERvQFzWLb3gdQDc6NeOiM)
+

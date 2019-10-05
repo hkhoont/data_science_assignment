@@ -17,6 +17,9 @@ Load data and analyze:
 ## Contents of the repo ##
 
 1. Readme File in .md format
-2. Data preprocessing ipython notebook - Preprocessing till using Dask distributions [Jupyter Notebook]()
-3. Data Visulaization and modelling ipython notebook - Orignally done on Google Collab [Collab Link](https://colab.research.google.com/drive/1upuXc2VEjdnERvQFzWLb3gdQDc6NeOiM)
+2. Data Dictionary [Pdf](https://github.com/hkhoont/data_science_assignment/blob/master/data_dictionary%20-%20Green%20Taxi%20NYC.pdf)
+3. Data preprocessing ipython notebook - Preprocessing till using Dask distributions [Jupyter Notebook](https://github.com/hkhoont/data_science_assignment/blob/master/data_preprocess.ipynb)
+4. Data Visulaization and modelling ipython notebook - Orignally done on Google Collab [Collab Link](https://colab.research.google.com/drive/1upuXc2VEjdnERvQFzWLb3gdQDc6NeOiM)
+
+
 

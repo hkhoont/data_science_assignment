@@ -28,6 +28,8 @@ Load data and analyze:
 -wget
 -xgboost
 -geopandas
-2. After running the data preprocesing IPython Notebook - save the resultant DataFrame in the Google Drive
-3. Export sahrebale link of this CSV and update the '''link''' variable
-4. Data Visulaization and modelling ipython notebook - Orignally done on Google Collab. Please open this link on browser other than Chrome. Try different browser till you are able to see New York City maps (Bokeh maps) in Google Collab [Please open this link on Firefox browser - Collab Link](https://colab.research.google.com/drive/1upuXc2VEjdnERvQFzWLb3gdQDc6NeOiM)
+2. After running the data pre-procesing IPython Notebook - save the resultant DataFrame in the Google Drive
+3. Export shared link of this CSV and update the 'link' variable in Google Collab
+4. Data Visulaization and modelling ipython notebook - Orignally done on Google Collab. Please open this link on browser on Chrome. Try different browser till you are able to see New York City maps (Bokeh maps) in Google Collab [Please open this link on Chrome/Firefox browser - Collab Link](https://colab.research.google.com/drive/1upuXc2VEjdnERvQFzWLb3gdQDc6NeOiM)
+5. If maps were not visible on either of the browsers. The downlaod the [IPython Notebook](https://colab.research.google.com/drive/1upuXc2VEjdnERvQFzWLb3gdQDc6NeOiM). After opening, go to File --> Trust Notebooks --> Complete the by clicking. 
+6. If above two methods does not work. The Static Notebook can accessed here [HTML File](https://drive.google.com/open?id=1lUgsTDXq16Gq9dTxg7tWVddQQa3cAd24). Download --> Open in Chrome/Firefox/Safari
